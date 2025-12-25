@@ -22,7 +22,7 @@ Total: 8 packages × 10 classes × 10 methods = 800 tests
 
 ## Requirements
 
-- Java 17+
+- Java 21+
 - Maven 3.6+
 
 ## How to Run Locally
@@ -44,7 +44,7 @@ Add a **Maven** build step with the following configuration:
 |---------|-------|
 | Goals | `clean test` |
 | Maven version | Default (or specify 3.6+) |
-| JDK | Java 17 |
+| JDK | Java 21 |
 
 Alternatively, use a **Command Line** build step:
 
