@@ -1,7 +1,7 @@
 # TeamCity Test Tree Reproducer
 
 This project generates a large JUnit 5 test tree to reproduce a TeamCity UI issue:
-
+Test Pipeline TW-96821 Inability to select 'Specific' branch monitoring mode during pipeline creation
 > **Build Overview → Unit Tests: "Expand all" does not expand tests hidden under "Show all"**
 
 ## Project Structure
