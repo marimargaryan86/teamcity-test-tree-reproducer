@@ -1,7 +1,7 @@
 # TeamCity Test Tree Reproducer
 
 This project generates a large JUnit 5 test tree to reproduce a TeamCity UI issue:
-
+changes on main only
 > **Build Overview → Unit Tests: "Expand all" does not expand tests hidden under "Show all"**
 
 ## Project Structure
